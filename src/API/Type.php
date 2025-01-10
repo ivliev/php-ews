@@ -5,6 +5,7 @@
 
 namespace garethp\ews\API;
 
+#[\AllowDynamicProperties]
 /**
  * Base class for Exchange Web Service Types.
  *
